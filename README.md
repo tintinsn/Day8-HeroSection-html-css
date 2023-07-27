@@ -1,1 +1,2 @@
-# Day8-HeroSection-html-css-
+# Day8-HeroSection-html-css
+Just HTML and CSS
